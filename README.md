@@ -1,3 +1,6 @@
+https://medium.com/@cep21/go-client-library-best-practices-83d877d604ca
+
+
 # go-tdameritrade
 Go client for the tdameritrade api. Big thank you to [Jon Cooper](https://github.com/JonCooperWorks/go-tdameritrade) for creating a fork that made this project more complete. He also wrote the awesome documentation below.
 
